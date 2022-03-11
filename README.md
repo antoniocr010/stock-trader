@@ -1,7 +1,6 @@
 # Stock-trader
 
-Aplicação que simula uma conta de negociações onde o individuo tem seu credito para comprar e vender Ações.
-Nesse projeto foi utilizado Rotas, Vuetify, Vuex para gerenciamento de estado e Axios para guardar e requisitar dados do FireBase
+Application that simulates an account to buy where the individual has his credit to buy and sell Shares. In this project we used Routes, Vuetify, Vuex for management management and Axios to save and request data from FireBase
 
 ## Project setup
 
