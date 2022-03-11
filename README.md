@@ -26,6 +26,4 @@ npm run serve
 
 ![Webp net-gifmaker (2)](https://user-images.githubusercontent.com/86974452/153019712-2f942c45-db36-43ae-a0d7-7f6cce20b81d.gif)
 
-### Customize configuration
 
-See [Configuration Reference](https://cli.vuejs.org/config/).
